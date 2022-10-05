@@ -6,12 +6,12 @@
 - Qiita: https://qiita.com/nokamoto
 
 ## 職務経歴
-### KADOKAWA Connected (2019/01 ~)
+### KADOKAWA Connected (2019/01 ~ 2022/08)
 - プライベートクラウドのインターフェスの開発
-  - アーキテクトとして設計を担当
+  - アーキテクトとしてサービスの立ち上げ、設計を担当
   - Go, gRPC, gRPC-web, TypeScript, React, Kubernetes, GitHub (Actions, Packages, Codespaces), Drone, ArgoCD, DataDog, Skaffold, Buildpacks, Terraform, MySQL, Kustomize
 - プライベートクラウドで提供する Kubernetes サービスの開発
-  - アーキテクトとして設計を担当
+  - アーキテクトとしてサービスの立ち上げ、設計を担当
   - Go, gRPC, Ansible, Kubernetes, Jenkins, DataDog, Terraform, Consul, Kustomize
 - 新卒エンジニア研修の企画
   - アーキテクトとして主にチーム開発研修の企画を担当
@@ -34,8 +34,12 @@
   https://engineering.kdx.co.jp/entry/2020/03/23/123000
 
 ### Dwango (2013/04 ~ 2018/12)
-todo
-
+- 通知基盤の開発
+  - Android/iOS Push 通知、WebPush、Eメールの通知基盤の開発リーダーを担当
+  - サービス間のイベント PubSub 基盤の開発リーダーを担当
+  - プロジェクトリーダーとして複数サービスに関わるEメールの基盤リプレイスプロジェクトを担当
+  - Scala, Playframework, Akka, gRPC, JavaScript, Ansible, Chef, Jenkins, Grafana, Prometheus, MySQL, Redis, Kafka, Docker
+  
 #### 公開されているアウトプット
 特になし
 
