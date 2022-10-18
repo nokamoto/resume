@@ -9,12 +9,25 @@
 ### KADOKAWA Connected (2019/01 ~ 2022/08)
 - プライベートクラウドのインターフェスの開発
   - アーキテクトとしてサービスの立ち上げ、設計を担当
-  - Go, gRPC, gRPC-web, TypeScript, React, Kubernetes, GitHub (Actions, Packages, Codespaces), Drone, ArgoCD, DataDog, Skaffold, Buildpacks, Terraform, MySQL, Kustomize
+  - Go, gRPC, gRPC-web, TypeScript, React, Kubernetes, GitHub (Actions, Packages, Codespaces), Drone, ArgoCD, DataDog, Skaffold, Buildpacks, Terraform, MySQL, Kustomize, Envoy
 - プライベートクラウドで提供する Kubernetes サービスの開発
   - アーキテクトとしてサービスの立ち上げ、設計を担当
   - Go, gRPC, Ansible, Kubernetes, Jenkins, DataDog, Terraform, Consul, Kustomize
 - 新卒エンジニア研修の企画
   - アーキテクトとして主にチーム開発研修の企画を担当
+  
+プライベートクラウド上で Kubernetes を提供するサービスの立ち上げをアーキテクトとして提案。
+8 名程度のチームで Kubernetes サービスの設計と実装を担当。
+Kuberntes クラスタの構築自動化を行う Go による gRPC サーバーや CLI ツールの実装を行った。
+
+プライベートクラウド上の各サービスの共通的なインターフェースを提供するチームの立ち上げをアーキテクトとして提案。
+各サービスで異なっていた利用者の識別子再設計や再開発されていた共通機能の標準化の設計を行った。
+5 名程度のチームで設計と実装を担当。
+TypeScript + React + gRPC-web での Web コンソール、Go による CLI ツールの実装を行った。
+
+新卒エンジニアのためのチーム開発研修の立ち上げをアーキテクトとして企画。
+研修テーマを実現するための研修アクティビティを設計を担当。
+15 名程度のチームでタスク・スケジュール管理を行った。
 
 #### 公開されているアウトプット
 ##### 社外広報
@@ -39,6 +52,11 @@
   - サービス間のイベント PubSub 基盤の開発リーダーを担当
   - プロジェクトリーダーとして複数サービスに関わるEメールの基盤リプレイスプロジェクトを担当
   - Scala, Playframework, Akka, gRPC, JavaScript, Ansible, Chef, Jenkins, Grafana, Prometheus, MySQL, Redis, Kafka, Docker
+  
+新卒として通知系のバックエンドサーバー開発者としてチームに参加し、後に開発リーダーとして複数の基盤のチームを担当。
+リーダーとして基盤の新規機能追加の設計、スクラム管理、プロジェクト管理を行った。
+Scala による API サーバーやイベント処理の実装を担当。
+ベアメタル・VM のサーバー構築などのインフラを担当。
   
 #### 公開されているアウトプット
 特になし
