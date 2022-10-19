@@ -46,7 +46,7 @@ TypeScript + React + gRPC-web での Web コンソール、Go による CLI ツ�
 - Envoy External Authorization で gRPC サービスから認可を分離する実装の検証
   https://engineering.kdx.co.jp/entry/2020/03/23/123000
 
-### Dwango (2014/04 ~ 2018/12)
+### Dwango (2013/04 ~ 2018/12)
 - 通知基盤の開発
   - Android/iOS Push 通知、WebPush、Eメールの通知基盤の開発リーダーを担当
   - サービス間のイベント PubSub 基盤の開発リーダーを担当
