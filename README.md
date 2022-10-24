@@ -7,7 +7,7 @@
 
 ## 職務経歴
 ### KADOKAWA Connected (2019/01 ~ 2022/08)
-- プライベートクラウドのインターフェスの開発
+- プライベートクラウドのインターフェースの開発
   - アーキテクトとしてサービスの立ち上げ、設計を担当
   - Go, gRPC, gRPC-web, TypeScript, React, Kubernetes, GitHub (Actions, Packages, Codespaces), Drone, ArgoCD, DataDog, Skaffold, Buildpacks, Terraform, MySQL, Kustomize, Envoy
 - プライベートクラウドで提供する Kubernetes サービスの開発
@@ -26,7 +26,7 @@ Kuberntes クラスタの構築自動化を行う Go による gRPC サーバー
 TypeScript + React + gRPC-web での Web コンソール、Go による CLI ツールの実装を行った。
 
 新卒エンジニアのためのチーム開発研修の立ち上げをアーキテクトとして企画。
-研修テーマを実現するための研修アクティビティを設計を担当。
+研修テーマを実現するための研修アクティビティの設計を担当。
 15 名程度のチームでタスク・スケジュール管理を行った。
 
 #### 公開されているアウトプット
